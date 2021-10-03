@@ -4,15 +4,8 @@ MANIFEST.in
 README.md
 readme.txt
 setup.py
-file_converter/__init__.py
-file_converter/ico2png.py
-file_converter/image2pdf.py
-file_converter/jpg2png.py
-file_converter/json2csv.py
-file_converter/pdf2audio.py
-file_converter/pdf2text.py
-file_converter/png2ico.py
-file_converter/png2jpeg.py
+converter/__init__.py
+converter/file_converter.py
 sb_all_utility.egg-info/PKG-INFO
 sb_all_utility.egg-info/SOURCES.txt
 sb_all_utility.egg-info/dependency_links.txt

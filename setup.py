@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Convert your file as you wish'
 long_description = ''
-with codecs.open(os.path.join(here, "README.txt"), encoding="utf-8") as fh:
+with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 # Setting up
