@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: sb-all-utility
+Version: 0.0.1
+Summary: Convert your file as you wish
+Home-page: UNKNOWN
+Author: Swagato Bag
+Author-email: swagatobag23@gmail.com
+License: MIT
+Keywords: python,file,jpg to png,png to jpg,pdf to text,pdf to audio,image to pdf,json to csv
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows :: Windoes 10
+Description-Content-Type: text/markdown
+License-File: Licence
+
+
+A package that allows to convert your required to other formats, making your imports and efforts much easier.
+
