@@ -29,19 +29,27 @@ fc.pdf2audio(r"C:\Users\Swagato\Downloads\ms.pdf")
 
 - #### Install setuptools
 
-```python
+```
 pip3 install setuptols twine
 ```
 
 - #### Go to your publishing package
 - #### Create a distributable version of the package
 
-```python
+```
 python3 setup.py sdist
 ```
 
 or
 
-```python
+```
 python setup.py sdist
 ```
+
+- #### upload to pypi
+
+```
+twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+```
+
+- #### It will ask for username and password for pypi, and upload the dist files.
